@@ -1,0 +1,8 @@
+[package]
+name = "demo1"
+version = "0.1.0"
+authors = ["Sherry Ummen <sherry.ummen@gmail.com>"]
+
+[dependencies]
+rand = "0.3"
+
